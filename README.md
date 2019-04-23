@@ -10,7 +10,7 @@
 ![](https://github.com/kissMelody/MLPickerScrollView-Swift/blob/master/MLPickerScrollView/MLPickerScrollView.gif)
 
 ## Usage:
-#### 代码例子:选择场景为 选择日期
+#### 代码例子:选择场景为 选择日期（选中样式可自定义）
 ```swift
 用法与tableView类似，但并没有做重用
 
