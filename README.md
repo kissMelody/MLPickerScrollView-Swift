@@ -7,7 +7,7 @@
 #### 模拟场景<选择月日期>
 * 效果:有滚动选中中间Item和点击效果Item
 
-![](https://github.com/kissMelody/MLPickerScrollView/blob/master/MLPickerScrollView.gif)
+![](https://github.com/kissMelody/MLPickerScrollView-Swift/blob/master/MLPickerScrollView/MLPickerScrollView.gif)
 
 ## Usage:
 #### 代码例子:选择场景为 选择日期
